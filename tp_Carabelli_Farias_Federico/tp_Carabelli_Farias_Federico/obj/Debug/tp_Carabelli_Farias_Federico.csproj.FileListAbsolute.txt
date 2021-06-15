@@ -1,0 +1,10 @@
+C:\Users\fedec\source\repos\tp_Carabelli_Farias_Federico\tp_Carabelli_Farias_Federico\bin\Debug\tp_Carabelli_Farias_Federico.exe.config
+C:\Users\fedec\source\repos\tp_Carabelli_Farias_Federico\tp_Carabelli_Farias_Federico\bin\Debug\tp_Carabelli_Farias_Federico.exe
+C:\Users\fedec\source\repos\tp_Carabelli_Farias_Federico\tp_Carabelli_Farias_Federico\bin\Debug\tp_Carabelli_Farias_Federico.pdb
+C:\Users\fedec\source\repos\tp_Carabelli_Farias_Federico\tp_Carabelli_Farias_Federico\obj\Debug\tp_Carabelli_Farias_Federico.csprojAssemblyReference.cache
+C:\Users\fedec\source\repos\tp_Carabelli_Farias_Federico\tp_Carabelli_Farias_Federico\obj\Debug\tp_Carabelli_Farias_Federico.Form1.resources
+C:\Users\fedec\source\repos\tp_Carabelli_Farias_Federico\tp_Carabelli_Farias_Federico\obj\Debug\tp_Carabelli_Farias_Federico.Properties.Resources.resources
+C:\Users\fedec\source\repos\tp_Carabelli_Farias_Federico\tp_Carabelli_Farias_Federico\obj\Debug\tp_Carabelli_Farias_Federico.csproj.GenerateResource.cache
+C:\Users\fedec\source\repos\tp_Carabelli_Farias_Federico\tp_Carabelli_Farias_Federico\obj\Debug\tp_Carabelli_Farias_Federico.csproj.CoreCompileInputs.cache
+C:\Users\fedec\source\repos\tp_Carabelli_Farias_Federico\tp_Carabelli_Farias_Federico\obj\Debug\tp_Carabelli_Farias_Federico.exe
+C:\Users\fedec\source\repos\tp_Carabelli_Farias_Federico\tp_Carabelli_Farias_Federico\obj\Debug\tp_Carabelli_Farias_Federico.pdb
